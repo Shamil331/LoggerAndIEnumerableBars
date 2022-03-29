@@ -1,0 +1,15 @@
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.AssemblyInfoInputs.cache
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.AssemblyInfo.cs
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.csproj.CoreCompileInputs.cache
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\LoggerBARS.exe
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\LoggerBARS.deps.json
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\LoggerBARS.runtimeconfig.json
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\LoggerBARS.dll
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\ref\LoggerBARS.dll
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\bin\Debug\net6.0\LoggerBARS.pdb
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.dll
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\ref\LoggerBARS.dll
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.pdb
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.genruntimeconfig.cache
+C:\Users\shiga\Desktop\LoggerBARS\LoggerBARS\obj\Debug\net6.0\LoggerBARS.csproj.AssemblyReference.cache
