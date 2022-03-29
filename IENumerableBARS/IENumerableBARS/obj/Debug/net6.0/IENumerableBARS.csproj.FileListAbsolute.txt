@@ -1,0 +1,14 @@
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\IENumerableBARS.exe
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\IENumerableBARS.deps.json
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\IENumerableBARS.runtimeconfig.json
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\IENumerableBARS.dll
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\ref\IENumerableBARS.dll
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\bin\Debug\net6.0\IENumerableBARS.pdb
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.AssemblyInfoInputs.cache
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.AssemblyInfo.cs
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.csproj.CoreCompileInputs.cache
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.dll
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\ref\IENumerableBARS.dll
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.pdb
+C:\Users\shiga\Desktop\IENumerableBARS\IENumerableBARS\obj\Debug\net6.0\IENumerableBARS.genruntimeconfig.cache
